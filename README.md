@@ -1,6 +1,6 @@
 # noteflutter
 
-A new NoteFlutter project.
+Flutter note app.
 
 ## Getting Started
 
