@@ -2,6 +2,10 @@
 
 Flutter note app.
 
+This project using special platform code.
+Android - Room database, coroutines
+IOS - Not already
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
